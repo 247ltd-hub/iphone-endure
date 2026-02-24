@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "quote": "The only real mistake is the one from which we learn nothing.",
+    "author": "Henry Ford",
+    "category": "Learning"
+  },
+  {
+    "id": 2,
+    "quote": "Regret for the things we did can be tempered by time; it is regret for the things we did not do that is inconsolable.",
+    "author": "Sydney J. Harris",
+    "category": "Regret"
+  },
+  {
+    "id": 3,
+    "quote": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "author": "Khalil Gibran",
+    "category": "Suffering"
+  },
+  {
+    "id": 4,
+    "quote": "I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.",
+    "author": "Booker T. Washington",
+    "category": "Success"
+  },
+  {
+    "id": 5,
+    "quote": "The heart was made to be broken.",
+    "author": "Oscar Wilde",
+    "category": "Heartbreak"
+  },
+  {
+    "id": 6,
+    "quote": "Mistakes are the portals of discovery.",
+    "author": "James Joyce",
+    "category": "Mistakes"
+  },
+  {
+    "id": 7,
+    "quote": "What is done cannot be undone, but one can prevent it happening again.",
+    "author": "Anne Frank",
+    "category": "Regret"
+  },
+  {
+    "id": 8,
+    "quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+    "author": "Samuel Beckett",
+    "category": "Failure"
+  },
+  {
+    "id": 9,
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "Resilience"
+  },
+  {
+    "id": 10,
+    "quote": "Pain is inevitable. Suffering is optional.",
+    "author": "Haruki Murakami",
+    "category": "Suffering"
+  },
+  {
+    "id": 11,
+    "quote": "Regret is the past crippling you in the present.",
+    "author": "Anonymous",
+    "category": "Regret"
+  },
+  {
+    "id": 12,
+    "quote": "It's not what happens to you, but how you react to it that matters.",
+    "author": "Epictetus",
+    "category": "Mindset"
+  },
+  {
+    "id": 13,
+    "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "Failure"
+  },
+  {
+    "id": 14,
+    "quote": "The only way to get rid of a temptation is to yield to it.",
+    "author": "Oscar Wilde",
+    "category": "Temptation"
+  },
+  {
+    "id": 15,
+    "quote": "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.",
+    "author": "Steve Maraboli",
+    "category": "Letting Go"
+  },
+  {
+    "id": 16,
+    "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "Success"
+  },
+  {
+    "id": 17,
+    "quote": "The wound is the place where the Light enters you.",
+    "author": "Rumi",
+    "category": "Healing"
+  },
+  {
+    "id": 18,
+    "quote": "We must accept finite disappointment, but never lose infinite hope.",
+    "author": "Martin Luther King Jr.",
+    "category": "Hope"
+  },
+  {
+    "id": 19,
+    "quote": "Rock bottom became the solid foundation on which I rebuilt my life.",
+    "author": "J.K. Rowling",
+    "category": "Recovery"
+  },
+  {
+    "id": 20,
+    "quote": "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+    "author": "Napoleon Hill",
+    "category": "Growth"
+  },
+  {
+    "id": 21,
+    "quote": "To err is human; to forgive, divine.",
+    "author": "Alexander Pope",
+    "category": "Forgiveness"
+  },
+  {
+    "id": 22,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Future"
+  },
+  {
+    "id": 23,
+    "quote": "Heartbreak could be lived with if it weren't accompanied by regret.",
+    "author": "Laura Kasischke",
+    "category": "Heartbreak"
+  },
+  {
+    "id": 24,
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford",
+    "category": "Failure"
+  },
+  {
+    "id": 25,
+    "quote": "What we regret most are lost opportunities.",
+    "author": "Anonymous",
+    "category": "Regret"
+  },
+  {
+    "id": 26,
+    "quote": "Suffering is the positive element in this world, indeed it is the only link between this world and the positive.",
+    "author": "Franz Kafka",
+    "category": "Suffering"
+  },
+  {
+    "id": 27,
+    "quote": "You may encounter many defeats, but you must not be defeated.",
+    "author": "Maya Angelou",
+    "category": "Resilience"
+  },
+  {
+    "id": 28,
+    "quote": "Regret is an appalling waste of energy; you can't build on it; it's only good for wallowing in.",
+    "author": "Katherine Mansfield",
+    "category": "Regret"
+  },
+  {
+    "id": 29,
+    "quote": "The past is a place of reference, not a place of residence.",
+    "author": "Willie Jolley",
+    "category": "Letting Go"
+  },
+  {
+    "id": 30,
+    "quote": "I am not what happened to me, I am what I choose to become.",
+    "author": "Carl Jung",
+    "category": "Choice"
+  },
+  {
+    "id": 31,
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "Healing"
+  },
+  {
+    "id": 32,
+    "quote": "Mistakes are a fact of life. It is the response to error that counts.",
+    "author": "Nikki Giovanni",
+    "category": "Mistakes"
+  },
+  {
+    "id": 33,
+    "quote": "The only man who never makes a mistake is the man who never does anything.",
+    "author": "Theodore Roosevelt",
+    "category": "Action"
+  },
+  {
+    "id": 34,
+    "quote": "Broken hearts hurt but they will make you strong.",
+    "author": "Anonymous",
+    "category": "Heartbreak"
+  },
+  {
+    "id": 35,
+    "quote": "Regrets are the tears of choices not made and of good deeds left undone.",
+    "author": "Jonathan Lockwood Huie",
+    "category": "Regret"
+  },
+  {
+    "id": 36,
+    "quote": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "Resilience"
+  },
+  {
+    "id": 37,
+    "quote": "The soul would have no rainbow had the eyes no tears.",
+    "author": "John Vance Cheney",
+    "category": "Healing"
+  },
+  {
+    "id": 38,
+    "quote": "It's better to have loved and lost than never to have loved at all.",
+    "author": "Alfred Lord Tennyson",
+    "category": "Love"
+  },
+  {
+    "id": 39,
+    "quote": "Failure is the condiment that gives success its flavor.",
+    "author": "Truman Capote",
+    "category": "Success"
+  },
+  {
+    "id": 40,
+    "quote": "We all make mistakes, have struggles, and even regret things in our past. But you are not your mistakes, you are not your struggles, and you are here NOW with the power to shape your day and your future.",
+    "author": "Steve Maraboli",
+    "category": "Self-Worth"
+  },
+  {
+    "id": 41,
+    "quote": "Regret doesn't remind us that we did badly. It reminds us that we know we can do better.",
+    "author": "Kathryn Schulz",
+    "category": "Regret"
+  },
+  {
+    "id": 42,
+    "quote": "A man is not old until regrets take the place of dreams.",
+    "author": "John Barrymore",
+    "category": "Regret"
+  },
+  {
+    "id": 43,
+    "quote": "The bitterest tears shed over graves are for words left unsaid and deeds left undone.",
+    "author": "Harriet Beecher Stowe",
+    "category": "Regret"
+  },
+  {
+    "id": 44,
+    "quote": "Out of difficulties grow miracles.",
+    "author": "Jean de La Bruyère",
+    "category": "Growth"
+  },
+  {
+    "id": 45,
+    "quote": "Heartbreak is life educating us.",
+    "author": "George Bernard Shaw",
+    "category": "Heartbreak"
+  },
+  {
+    "id": 46,
+    "quote": "I did then what I knew how to do. Now that I know better, I do better.",
+    "author": "Maya Angelou",
+    "category": "Growth"
+  },
+  {
+    "id": 47,
+    "quote": "Regret is mostly caused by not having done anything.",
+    "author": "Charles Bukowski",
+    "category": "Regret"
+  },
+  {
+    "id": 48,
+    "quote": "Success consists of going from failure to failure without loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "Success"
+  },
+  {
+    "id": 49,
+    "quote": "The pain of yesterday is the strength of today.",
+    "author": "Paulo Coelho",
+    "category": "Healing"
+  },
+  {
+    "id": 50,
+    "quote": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+    "author": "Victoria Holt",
+    "category": "Regret"
+  }
+]
