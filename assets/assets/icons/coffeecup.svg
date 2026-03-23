@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+  <path fill="none" stroke="#000" stroke-linecap="square" stroke-width="2.2" d="M17.76 8.21h1c2.21 0 4 1.79 4 4s-1.79 4-4 4h-1"/>
+  <path fill="none" stroke="#000" stroke-linecap="square" stroke-width="2.2" d="M1.76 8.21h16v9c0 2.21-1.79 4-4 4h-8c-2.21 0-4-1.79-4-4v-9z"/>
+  <line fill="none" stroke="#000" stroke-linecap="square" stroke-width="2.2" x1="5.76" y1="1.21" x2="5.76" y2="4.21"/>
+  <line fill="none" stroke="#000" stroke-linecap="square" stroke-width="2.2" x1="9.76" y1="1.21" x2="9.76" y2="4.21"/>
+  <line fill="none" stroke="#000" stroke-linecap="square" stroke-width="2.2" x1="13.76" y1="1.21" x2="13.76" y2="4.21"/>
+</svg>

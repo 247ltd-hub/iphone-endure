@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "quote": "The only real mistake is the one from which we learn nothing.",
+    "author": "Henry Ford",
+    "category": "Learning"
+  },
+  {
+    "id": 2,
+    "quote": "Regret for the things we did can be tempered by time; it is regret for the things we did not do that is inconsolable.",
+    "author": "Sydney J. Harris",
+    "category": "Regret"
+  },
+  {
+    "id": 3,
+    "quote": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+    "author": "Khalil Gibran",
+    "category": "Suffering"
+  },
+  {
+    "id": 4,
+    "quote": "I have learned that success is to be measured not so much by the position that one has reached in life as by the obstacles which he has overcome while trying to succeed.",
+    "author": "Booker T. Washington",
+    "category": "Success"
+  },
+  {
+    "id": 5,
+    "quote": "The heart was made to be broken.",
+    "author": "Oscar Wilde",
+    "category": "Heartbreak"
+  },
+  {
+    "id": 6,
+    "quote": "Mistakes are the portals of discovery.",
+    "author": "James Joyce",
+    "category": "Mistakes"
+  },
+  {
+    "id": 7,
+    "quote": "What is done cannot be undone, but one can prevent it happening again.",
+    "author": "Anne Frank",
+    "category": "Regret"
+  },
+  {
+    "id": 8,
+    "quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+    "author": "Samuel Beckett",
+    "category": "Failure"
+  },
+  {
+    "id": 9,
+    "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "author": "Nelson Mandela",
+    "category": "Resilience"
+  },
+  {
+    "id": 10,
+    "quote": "Pain is inevitable. Suffering is optional.",
+    "author": "Haruki Murakami",
+    "category": "Suffering"
+  },
+  {
+    "id": 11,
+    "quote": "Regret is the past crippling you in the present.",
+    "author": "Anonymous",
+    "category": "Regret"
+  },
+  {
+    "id": 12,
+    "quote": "It's not what happens to you, but how you react to it that matters.",
+    "author": "Epictetus",
+    "category": "Mindset"
+  },
+  {
+    "id": 13,
+    "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+    "author": "Thomas Edison",
+    "category": "Failure"
+  },
+  {
+    "id": 14,
+    "quote": "The only way to get rid of a temptation is to yield to it.",
+    "author": "Oscar Wilde",
+    "category": "Temptation"
+  },
+  {
+    "id": 15,
+    "quote": "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.",
+    "author": "Steve Maraboli",
+    "category": "Letting Go"
+  },
+  {
+    "id": 16,
+    "quote": "Success is stumbling from failure to failure with no loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "Success"
+  },
+  {
+    "id": 17,
+    "quote": "The wound is the place where the Light enters you.",
+    "author": "Rumi",
+    "category": "Healing"
+  },
+  {
+    "id": 18,
+    "quote": "We must accept finite disappointment, but never lose infinite hope.",
+    "author": "Martin Luther King Jr.",
+    "category": "Hope"
+  },
+  {
+    "id": 19,
+    "quote": "Rock bottom became the solid foundation on which I rebuilt my life.",
+    "author": "J.K. Rowling",
+    "category": "Recovery"
+  },
+  {
+    "id": 20,
+    "quote": "Every adversity, every failure, every heartache carries with it the seed of an equal or greater benefit.",
+    "author": "Napoleon Hill",
+    "category": "Growth"
+  },
+  {
+    "id": 21,
+    "quote": "To err is human; to forgive, divine.",
+    "author": "Alexander Pope",
+    "category": "Forgiveness"
+  },
+  {
+    "id": 22,
+    "quote": "The best way to predict the future is to create it.",
+    "author": "Peter Drucker",
+    "category": "Future"
+  },
+  {
+    "id": 23,
+    "quote": "Heartbreak could be lived with if it weren't accompanied by regret.",
+    "author": "Laura Kasischke",
+    "category": "Heartbreak"
+  },
+  {
+    "id": 24,
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently.",
+    "author": "Henry Ford",
+    "category": "Failure"
+  },
+  {
+    "id": 25,
+    "quote": "What we regret most are lost opportunities.",
+    "author": "Anonymous",
+    "category": "Regret"
+  },
+  {
+    "id": 26,
+    "quote": "Suffering is the positive element in this world, indeed it is the only link between this world and the positive.",
+    "author": "Franz Kafka",
+    "category": "Suffering"
+  },
+  {
+    "id": 27,
+    "quote": "You may encounter many defeats, but you must not be defeated.",
+    "author": "Maya Angelou",
+    "category": "Resilience"
+  },
+  {
+    "id": 28,
+    "quote": "Regret is an appalling waste of energy; you can't build on it; it's only good for wallowing in.",
+    "author": "Katherine Mansfield",
+    "category": "Regret"
+  },
+  {
+    "id": 29,
+    "quote": "The past is a place of reference, not a place of residence.",
+    "author": "Willie Jolley",
+    "category": "Letting Go"
+  },
+  {
+    "id": 30,
+    "quote": "I am not what happened to me, I am what I choose to become.",
+    "author": "Carl Jung",
+    "category": "Choice"
+  },
+  {
+    "id": 31,
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "Healing"
+  },
+  {
+    "id": 32,
+    "quote": "Mistakes are a fact of life. It is the response to error that counts.",
+    "author": "Nikki Giovanni",
+    "category": "Mistakes"
+  },
+  {
+    "id": 33,
+    "quote": "The only man who never makes a mistake is the man who never does anything.",
+    "author": "Theodore Roosevelt",
+    "category": "Action"
+  },
+  {
+    "id": 34,
+    "quote": "Broken hearts hurt but they will make you strong.",
+    "author": "Anonymous",
+    "category": "Heartbreak"
+  },
+  {
+    "id": 35,
+    "quote": "Regrets are the tears of choices not made and of good deeds left undone.",
+    "author": "Jonathan Lockwood Huie",
+    "category": "Regret"
+  },
+  {
+    "id": 36,
+    "quote": "Fall seven times, stand up eight.",
+    "author": "Japanese Proverb",
+    "category": "Resilience"
+  },
+  {
+    "id": 37,
+    "quote": "The soul would have no rainbow had the eyes no tears.",
+    "author": "John Vance Cheney",
+    "category": "Healing"
+  },
+  {
+    "id": 38,
+    "quote": "It's better to have loved and lost than never to have loved at all.",
+    "author": "Alfred Lord Tennyson",
+    "category": "Love"
+  },
+  {
+    "id": 39,
+    "quote": "Failure is the condiment that gives success its flavor.",
+    "author": "Truman Capote",
+    "category": "Success"
+  },
+  {
+    "id": 40,
+    "quote": "We all make mistakes, have struggles, and even regret things in our past. But you are not your mistakes, you are not your struggles, and you are here NOW with the power to shape your day and your future.",
+    "author": "Steve Maraboli",
+    "category": "Self-Worth"
+  },
+  {
+    "id": 41,
+    "quote": "Regret doesn't remind us that we did badly. It reminds us that we know we can do better.",
+    "author": "Kathryn Schulz",
+    "category": "Regret"
+  },
+  {
+    "id": 42,
+    "quote": "A man is not old until regrets take the place of dreams.",
+    "author": "John Barrymore",
+    "category": "Regret"
+  },
+  {
+    "id": 43,
+    "quote": "The bitterest tears shed over graves are for words left unsaid and deeds left undone.",
+    "author": "Harriet Beecher Stowe",
+    "category": "Regret"
+  },
+  {
+    "id": 44,
+    "quote": "Out of difficulties grow miracles.",
+    "author": "Jean de La Bruyère",
+    "category": "Growth"
+  },
+  {
+    "id": 45,
+    "quote": "Heartbreak is life educating us.",
+    "author": "George Bernard Shaw",
+    "category": "Heartbreak"
+  },
+  {
+    "id": 46,
+    "quote": "I did then what I knew how to do. Now that I know better, I do better.",
+    "author": "Maya Angelou",
+    "category": "Growth"
+  },
+  {
+    "id": 47,
+    "quote": "Regret is mostly caused by not having done anything.",
+    "author": "Charles Bukowski",
+    "category": "Regret"
+  },
+  {
+    "id": 48,
+    "quote": "Success consists of going from failure to failure without loss of enthusiasm.",
+    "author": "Winston Churchill",
+    "category": "Success"
+  },
+  {
+    "id": 49,
+    "quote": "The pain of yesterday is the strength of today.",
+    "author": "Paulo Coelho",
+    "category": "Healing"
+  },
+  {
+    "id": 50,
+    "quote": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
+    "author": "Victoria Holt",
+    "category": "Regret"
+  },
+  {
+    "id": 51,
+    "quote": "Anger is a great force. If you control it, it can be transmuted into a power which can move the whole world.",
+    "author": "Sri Swami Sivananda",
+    "category": "Anger"
+  },
+  {
+    "id": 52,
+    "quote": "There's nothing wrong with anger provided you use it constructively.",
+    "author": "Wayne Dyer",
+    "category": "Anger"
+  },
+  {
+    "id": 53,
+    "quote": "In times of great stress or adversity, it's always best to keep busy, to plow your anger and your energy into something positive.",
+    "author": "Lee Iacocca",
+    "category": "Anger"
+  },
+  {
+    "id": 54,
+    "quote": "Bitterness is like cancer. It eats upon the host. But anger is like fire. It burns it all clean.",
+    "author": "Maya Angelou",
+    "category": "Anger"
+  },
+  {
+    "id": 55,
+    "quote": "Anger isn’t dysfunctional. Anger is a powerful, healthy, necessary, and motivating force.",
+    "author": "Katherine Morgan Schafler",
+    "category": "Anger"
+  },
+  {
+    "id": 56,
+    "quote": "Master anger, and it becomes fuel for ambition.",
+    "author": "Marion Bekoe",
+    "category": "Anger"
+  },
+  {
+    "id": 57,
+    "quote": "Anger is the fire that consumes peace, yet it can also be the catalyst for change when tempered with understanding and compassion.",
+    "author": "Marion Bekoe",
+    "category": "Anger"
+  },
+  {
+    "id": 58,
+    "quote": "Anger is loaded with information and energy.",
+    "author": "Audre Lorde",
+    "category": "Anger"
+  },
+  {
+    "id": 59,
+    "quote": "Being alone is scary, but not as scary as feeling alone in a relationship.",
+    "author": "Amelia Earhart",
+    "category": "Loneliness"
+  },
+  {
+    "id": 60,
+    "quote": "The hottest love has the coldest end.",
+    "author": "Socrates",
+    "category": "Love"
+  },
+  {
+    "id": 61,
+    "quote": "There is always a lesson of a lifetime to learn in every betrayal.",
+    "author": "Edmond Mbiaka",
+    "category": "Betrayal"
+  },
+  {
+    "id": 62,
+    "quote": "I would have followed you to hell and back... if only you'd lead me back.",
+    "author": "Ranata Suzuki",
+    "category": "Heartbreak"
+  },
+  {
+        "id": 63,
+        "quote": "Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything.",
+        "author": "George Lois",
+        "category": "Creativity"
+    },
+    {
+        "id": 64,
+        "quote": "To live a creative life, we must lose our fear of being wrong.",
+        "author": "Joseph Chilton Pearce",
+        "category": "Creativity"
+    },
+    {
+        "id": 65,
+        "quote": "You can’t use up creativity. The more you use, the more you have.",
+        "author": "Maya Angelou",
+        "category": "Creativity"
+    },
+    {
+        "id": 66,
+        "quote": "Creativity takes courage.",
+        "author": "Henri Matisse",
+        "category": "Creativity"
+    },
+    {
+        "id": 67,
+        "quote": "There is no innovation or creativity without failure.",
+        "author": "Brené Brown",
+        "category": "Creativity"
+    },
+    {
+        "id": 68,
+        "quote": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep.",
+        "author": "Scott Adams",
+        "category": "Creativity"
+    },
+    {
+        "id": 69,
+        "quote": "The creative process is a process of surrender, not control.",
+        "author": "Julia Cameron",
+        "category": "Creativity"
+    },
+    {
+        "id": 70,
+        "quote": "To be creative means to be in love with life. You can be creative only if you love life enough that you want to enhance its beauty.",
+        "author": "Osho",
+        "category": "Creativity"
+    },
+    {
+        "id": 71,
+        "quote": "Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what’s inside you, to make your soul grow.",
+        "author": "Kurt Vonnegut",
+        "category": "Creativity"
+    },
+    {
+        "id": 72,
+        "quote": "Struggle, for me, is the most inspirational thing in the world at the end of the day—as long as you treat it that way.",
+        "author": "Skrillex",
+        "category": "Creativity"
+    },
+    {
+        "id": 73,
+        "quote": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+        "author": "Marcus Aurelius",
+        "category": "Strength"
+    },
+    {
+        "id": 74,
+        "quote": "In the depth of winter, I finally learned that within me there lay an invincible summer.",
+        "author": "Albert Camus",
+        "category": "Resilience"
+    },
+    {
+        "id": 75,
+        "quote": "When we are no longer able to change a situation, we are challenged to change ourselves.",
+        "author": "Viktor E. Frankl",
+        "category": "Growth"
+    },
+    {
+        "id": 76,
+        "quote": "Let everything happen to you: beauty and terror. Just keep going. No feeling is final.",
+        "author": "Rainer Maria Rilke",
+        "category": "Endurance"
+    },
+    {
+        "id": 77,
+        "quote": "Life can only be understood backwards; but it must be lived forwards.",
+        "author": "Søren Kierkegaard",
+        "category": "Moving On"
+    },
+    {
+        "id": 78,
+        "quote": "Sometimes even to live is an act of courage.",
+        "author": "Seneca",
+        "category": "Courage"
+    },
+    {
+        "id": 79,
+        "quote": "I have already lost touch with a couple of people I used to be.",
+        "author": "Joan Didion",
+        "category": "Growth"
+    },
+    {
+        "id": 80,
+        "quote": "The secret of change is to focus all of your energy, not on fighting the old, but on building the new.",
+        "author": "Socrates (Dan Millman)",
+        "category": "Moving On"
+    },
+    {
+        "id": 81,
+        "quote": "There is a crack in everything. That's how the light gets in.",
+        "author": "Leonard Cohen",
+        "category": "Healing"
+    },
+    {
+        "id": 82,
+        "quote": "Do not judge me by my success, judge me by how many times I fell down and got back up again.",
+        "author": "Nelson Mandela",
+        "category": "Resilience"
+    },
+    {
+        "id": 83,
+        "quote": "A ship in harbor is safe, but that is not what ships are built for.",
+        "author": "John A. Shedd",
+        "category": "Courage"
+    },
+    {
+        "id": 84,
+        "quote": "He who has a why to live for can bear almost any how.",
+        "author": "Friedrich Nietzsche",
+        "category": "Purpose"
+    },
+    {
+        "id": 85,
+        "quote": "Some things are in our control and others not. Things in our control are opinion, pursuit, desire, aversion, and, in a word, whatever are our own actions.",
+        "author": "Epictetus",
+        "category": "Mindset"
+    },
+    {
+        "id": 86,
+        "quote": "Every new beginning comes from some other beginning's end.",
+        "author": "Seneca",
+        "category": "Moving On"
+    },
+    {
+        "id": 87,
+        "quote": "I survived because the fire inside me burned brighter than the fire around me.",
+        "author": "Joshua Graham",
+        "category": "Resilience"
+    },
+        {
+        "id": 88,
+        "quote": "One does not become enlightened by imagining figures of light, but by making the darkness conscious.",
+        "author": "Carl Jung",
+        "category": "Shadow"
+    },
+    {
+        "id": 89,
+        "quote": "The meeting with oneself is, at first, the meeting with one’s own shadow. The shadow is a tight passage, a narrow door, whose painful constriction no one is spared who goes down to the deep well.",
+        "author": "Carl Jung",
+        "category": "Shadow"
+    },
+    {
+        "id": 90,
+        "quote": "Until you make the unconscious conscious, it will direct your life and you will call it fate.",
+        "author": "Carl Jung",
+        "category": "Consciousness"
+    },
+    {
+        "id": 91,
+        "quote": "There is no coming to consciousness without pain.",
+        "author": "Carl Jung",
+        "category": "Growth"
+    },
+    {
+        "id": 92,
+        "quote": "The most terrifying thing is to accept oneself completely.",
+        "author": "Carl Jung",
+        "category": "Shadow"
+    },
+    {
+        "id": 93,
+        "quote": "You want to escape from pain, but the more you struggle to escape, the more you inflame the agony.",
+        "author": "Alan Watts",
+        "category": "Surrender"
+    },
+    {
+        "id": 94,
+        "quote": "Waking up to who you are requires letting go of who you imagine yourself to be.",
+        "author": "Alan Watts",
+        "category": "Awakening"
+    },
+    {
+        "id": 95,
+        "quote": "The only way to make sense out of change is to plunge into it, move with it, and join the dance.",
+        "author": "Alan Watts",
+        "category": "Mindset"
+    },
+    {
+        "id": 96,
+        "quote": "You are not your pain. You are the awareness that is aware of the pain.",
+        "author": "Eckhart Tolle",
+        "category": "Presence"
+    },
+    {
+        "id": 97,
+        "quote": "Surrender is the most powerful thing you can do.",
+        "author": "Eckhart Tolle",
+        "category": "Surrender"
+    },
+    {
+        "id": 98,
+        "quote": "Sometimes adversity creates an environment for good things to grow.",
+        "author": "Rick Rubin",
+        "category": "Growth"
+    },
+    {
+        "id": 99,
+        "quote": "All that matters is that you are making something you love, to the best of your ability, here and now.",
+        "author": "Rick Rubin",
+        "category": "Creative Endurance"
+    },
+    {
+        "id": 100,
+        "quote": "Failure is the information you need to get where you’re going.",
+        "author": "Rick Rubin",
+        "category": "Growth"
+    },
+    {
+        "id": 101,
+        "quote": "The things we believe carry a charge regardless of whether they can be proven or not.",
+        "author": "Rick Rubin",
+        "category": "Mindset"
+    },
+    {
+        "id": 102,
+        "quote": "Man needs difficulties; they are necessary for health.",
+        "author": "Carl Jung",
+        "category": "Growth"
+    }
+]
