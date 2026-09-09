@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {".well-known/apple-app-site-association": "d41d8cd98f00b204e9800998ecf8427e",
-"assets/AssetManifest.bin": "e513e200058661bc02416037db78576f",
-"assets/AssetManifest.bin.json": "83c67c3176b4227e949ebb69671535f8",
+"assets/AssetManifest.bin": "a2f1ee30426f5998a839892624776b5e",
+"assets/AssetManifest.bin.json": "4cad039d8505f36089e51f060bc7a187",
 "assets/assets/data/quotes_en.json": "2ee5f746071ea740cc4a06de128bdbab",
 "assets/assets/fonts/DIN2014Bold.otf": "df2bf1de895cd9841f612deef5556a41",
 "assets/assets/fonts/DIN2014Demi.otf": "a847635ef4e6e0516fd7dd6b1a369a4e",
@@ -19,13 +19,15 @@ const RESOURCES = {".well-known/apple-app-site-association": "d41d8cd98f00b204e9
 "assets/assets/icons/hamburger.svg": "ac8b8b3272d9b3d88e5b46f8509d9587",
 "assets/assets/icons/instagram.svg": "7e4fd36bdc2ee318b08ae3599b8c78db",
 "assets/assets/icons/linkedin.svg": "02e08964e2096d89e96079d91bc7a086",
+"assets/assets/icons/mb-monogram-min.svg": "8d2bbd36090b41c236c22a0f430694a9",
+"assets/assets/icons/mb-wordmark-min.svg": "77dccc62d30d35a9bc4650ae1f432b68",
 "assets/assets/icons/share.svg": "1c8d39b6914dc9b4ab70d53a1b5c3bca",
 "assets/assets/icons/triangle.svg": "7e4779edc1f93d0d11a174c4ca967b52",
 "assets/assets/icons/www.svg": "3de8ff991c30a42548fb8efd4f7bb1ee",
 "assets/assets/icons/x-logo.svg": "86fe7725bc3a3e439b5f99603f593597",
 "assets/FontManifest.json": "f07871b083b0201560ddec1d213b3f73",
 "assets/fonts/MaterialIcons-Regular.otf": "2b35bc832b279bd1ae39cd2f2ce6224b",
-"assets/NOTICES": "68bbf19a9e0b334e664fa0d9c73f85ab",
+"assets/NOTICES": "a92440fa6613c1d07ecfe7340d031e6f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/shaders/stretch_effect.frag": "40d68efbbf360632f614c731219e95f0",
@@ -44,14 +46,14 @@ const RESOURCES = {".well-known/apple-app-site-association": "d41d8cd98f00b204e9
 "CNAME": "12b0e40e7acc6bb9d3b9370d55bc3a42",
 "favicon.png": "9d0cf019440b7918aa3e0f195e451101",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
-"flutter_bootstrap.js": "81cd1638217f4205234b8cb36ab3fb17",
+"flutter_bootstrap.js": "66cebbe0d9d5cfb6e7fb75ecd0a3ba26",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "fa365caef999c050a1de005b28c52a79",
 "/": "fa365caef999c050a1de005b28c52a79",
-"main.dart.js": "e4f397ab9b6b096bb30f4efc6308b739",
+"main.dart.js": "1aea7c36a002570b811429441b8005b8",
 "manifest.json": "1787413f9cf062a61db98ab676f4d268",
 "splash/img/branding-1x.png": "33e43231afb185970f8657aae0f2cd89",
 "splash/img/branding-2x.png": "a63fdaf6b12f407befd6527bd1d63f2f",
@@ -69,7 +71,7 @@ const RESOURCES = {".well-known/apple-app-site-association": "d41d8cd98f00b204e9
 "splash/img/light-2x.png": "a63fdaf6b12f407befd6527bd1d63f2f",
 "splash/img/light-3x.png": "87e6adfd6f16539cf0fc0b8c6afda276",
 "splash/img/light-4x.png": "42a11dd02f4f030760dc86da71f668d6",
-"version.json": "ed0d6bb1c12720c8caa3d09dce3f9164"};
+"version.json": "dd734cc466d6365875434b9f07b14132"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
