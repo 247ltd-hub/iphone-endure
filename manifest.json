@@ -1,11 +1,11 @@
 {
-    "name": "endure",
-    "short_name": "endure",
+    "name": "Endure",
+    "short_name": "Endure",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#000000",
+    "theme_color": "#F2F2F2",
+    "description": "Resilience Daily. A quote app focused on resilience.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
